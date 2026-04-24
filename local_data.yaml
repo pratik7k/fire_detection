@@ -1,0 +1,6 @@
+names:
+- fire
+nc: 1
+test: /content/fire_data/test
+train: /content/fire_data/train
+val: /content/fire_data/val

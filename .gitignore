@@ -1,0 +1,10 @@
+fire_data/
+fire_detection_results/
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# OS specific
+.DS_Store
